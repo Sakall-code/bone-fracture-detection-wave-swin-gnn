@@ -17,3 +17,4 @@ dataset-od/
 *.bin
 
 # Duplicate/temporary
+*.png
