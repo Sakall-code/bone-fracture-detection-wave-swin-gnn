@@ -1,0 +1,19 @@
+# Virtual environment & caches
+tf-env/
+__pycache__/
+.ipynb_checkpoints/
+
+# Datasets
+dataset/
+dataset-od/
+*.zip
+*.tar.gz
+
+# Model weights & large binaries (>100MB)
+*.pth
+*.pt
+*.onnx
+*.onnx.data
+*.bin
+
+# Duplicate/temporary
